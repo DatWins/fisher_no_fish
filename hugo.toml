@@ -1,4 +1,4 @@
-baseURL = "https://datwins.github.io/carlsen_the_goat/"
+baseURL = "https://datwins.github.io/fisher_no_fish/"
 
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 
 theme = "hugo-scroll"
 
-title = "Carlsen the GOAT – Guess the Move"
+title = "Fisher No Fish – Guess the Move"
 
 enableGitInfo = true
 enableEmoji = true
@@ -16,7 +16,7 @@ enableEmoji = true
     images = ["images/cover-image.jpg"]
     title_guard = true
     title = "Carlsen the GOAT"
-    description = "Play through Magnus Carlsen's historic unbeaten streak — find his moves, one at a time, and score against par"
+    description = "Play through Fisher's Games Collections — find his moves, one at a time, and score against par"
     language_menu = false
     show_current_lang = false
     hidedesignbyline = false
