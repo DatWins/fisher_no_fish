@@ -1,0 +1,13 @@
+---
+title: "Tal, Mihail – Fischer, Robert James"
+where: "Candidats Tournament, 1959"
+year: 1959
+opening: "E93"
+moves: "d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Be2 O-O Nf3 e5 d5 Nbd7 Bg5 h6 Bh4 a6 Nd2 Qe8 O-O Nh7 b4 Ng5 f3 f5 Bf2 Qe7 Rc1 Nf6 c5 Bd7 Qc2 Nh5 b5 fxe4 Ndxe4 Nxe4 fxe4 Nf4 c6 Qg5 Bf3 bxc6 dxc6 Bg4 Bxg4 Qxg4 Be3 axb5 Bxf4 exf4 Nxb5 Rf7 Qc4 Rc8 Rf3 Be5 Rcf1 Kg7 a4 Ra8 Kh1 Qg5 g3 Raf8 gxf4 Bxf4 Nd4 Qh4 Rxf4 Rxf4 Ne6+ Kh8 Qd4+ R8f6 Nxf4 Kh7 e5 dxe5 Qd7+"
+startply: 6
+side: "w"
+pars: [2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3]
+---
+Tal, Mihail – Fischer, Robert James, Candidats Tournament, 1959. E93. White to find 38 moves; the game ends in resignation. Par for the game is 100.
+
+{{< guessgame >}}
