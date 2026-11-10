@@ -5,9 +5,9 @@ navigation_menu_title: "How to Play"
 weight: 1
 header_menu: true
 ---
-Between August 2018 and June 2019, Magnus Carlsen went **112 games unbeaten** — a mix of classical, rapid, and blitz — against the world's best players. Play through every game in that streak, find his moves, and score against par.
+Welcome to the games of Robert Fischer. Can you guess Fischer's moves?
 
-Each game starts a few moves in. You take Magnus's side and type the move you think he played, one move at a time. After each of your moves, his opponent's reply appears on the scoresheet.
+Each game starts a few moves in. You take Fischer's side and type the move you think he played, one move at a time. After each of your moves, his opponent's reply appears on the scoresheet.
 
 Every move is worth **3 points** (par 3). That share is each move's **par**:
 
