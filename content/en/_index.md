@@ -1,6 +1,6 @@
 ---
-header_headline: "Carlsen the GOAT"
-header_subheadline: "Play through Magnus Carlsen's historic unbeaten streak — find his moves, one at a time, and score against par"
+header_headline: "Welcome to the games of Robert Fischer"
+header_subheadline: "Can you guess Fischer's moves?"
 header_image: "images/cover-image.jpg"
 header_use_video: false
 nav_to_top_title: "Back to Top"
