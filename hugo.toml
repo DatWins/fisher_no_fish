@@ -1,4 +1,4 @@
-baseURL = "https://datwins.github.io/fisher_no_fish/"
+baseURL = "https://datwins.github.io/guess_fischer/"
 
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
